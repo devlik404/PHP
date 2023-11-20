@@ -1,0 +1,25 @@
+*{
+   margin-top: 0;
+    margin:0;
+}
+
+
+.navbar{
+    background-color: aqua;
+    position: relative;
+  width: 100%;
+}
+.navbar p{
+   margin-left: 0;
+}
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.navbar ul li{
+    margin: 20px;
+   list-style-type: none;
+}
